@@ -1,4 +1,4 @@
-# AltlabWay
+# altLabWay
 
 Standard- how we do things
 
@@ -13,6 +13,6 @@ Acreditamos que com o standart acelaramos o processo de criação por automatiza
   
   3 - Qualquer um pode propor alterações às regras existentes.
   
-  4 - E mais importante escrever uma regra do que esta estar certa.
+  4 - É mais importante escrever uma regra do que esta estar certa.
   
-  5 - E mais importante fazer do que seguir uma regra.
+  5 - É mais importante fazer do que seguir uma regra.
