@@ -16,3 +16,5 @@ Acreditamos que com o standart acelaramos o processo de criação por automatiza
   4 - É mais importante escrever uma regra do que esta estar certa.
   
   5 - É mais importante fazer do que seguir uma regra.
+  
+  6 - deixar um erro ortográfico para saber se alguem leu isto... :-)
