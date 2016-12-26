@@ -1,9 +1,9 @@
 # altLabWay
 
-Standard- how we do things
+Standard - how we do things
 
-A ideia da standerização é a remover as barreiras da indecisão nos processos do Lab.
-Acreditamos que com o standart acelaramos o processo de criação por automatização de decisões base criadas com a experiência adquirida anteriormente, desburucratizando porcessos mentais.
+A ideia da standardização é a remover as barreiras da indecisão nos processos do Lab.
+Acreditamos que com o standard aceleramos o processo de criação por automatização de decisões base criadas com a experiência adquirida anteriormente, desburocratizando processos mentais.
 
 ## Regras Base
 
@@ -17,4 +17,4 @@ Acreditamos que com o standart acelaramos o processo de criação por automatiza
   
   5 - É mais importante fazer do que seguir uma regra.
   
-  6 - deixar um erro ortográfico para saber se alguem leu isto... :-)
+  
