@@ -27,5 +27,5 @@ Acreditamos que com o standard aceleramos o processo de criação por automatiza
 ----
 Boas Referências em relação a normas de condutas de um hackerspace;
 
-https://www.recurse.com/code-of-conduct
-https://www.recurse.com/manual#sub-sec-social-rules
+- https://www.recurse.com/code-of-conduct
+- https://www.recurse.com/manual#sub-sec-social-rules
